@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KAAM MILEGA</string>
+    <string name="title_activity_main">KAAM MILEGA</string>
+    <string name="package_name">com.kaammilega.mobile</string>
+    <string name="custom_url_scheme">com.kaammilega.mobile</string>
+</resources>
